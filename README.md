@@ -1,15 +1,22 @@
-<img width="564" height="564" alt="WhatsApp Image 2026-05-22 at 19 41 05" src="https://github.com/user-attachments/assets/fb243265-1b5d-40c2-8edc-cddc25e15a57" />
+<div align="center">
+<img width="450" height="280" alt="WhatsApp Image 2026-05-22 at 20 06 54" src="https://github.com/user-attachments/assets/fd7c7937-9c1a-4dba-a49a-eccc102d3cf9" />
+</div>
 
 
-# Olá 👋
 
-💻 Estudante de programação  
-🎯 Criando projetos para evoluir como dev
+
+
+<h3 align="center">
+" ✨ Construindo meu futuro uma linha de código por vez."
+</h3>
+
 
 ## 
 <div style="display: inline_block"><br>
+  
   <img align="center" alt="JS" height="40" width="50"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
 
 
   <img align="center" alt="HTML" height="40" width="50"
@@ -22,6 +29,3 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
----
-
-✨ “Cada projeto é um passo mais perto do meu objetivo.”
