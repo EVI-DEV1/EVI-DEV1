@@ -11,13 +11,7 @@
 " ✨ Construindo meu futuro uma linha de código por vez."
 </h3>
 
-
 <h1 align="center"> Eliane Vitoriano </h1> 
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f5b3d8&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Development;I'Be+welcome!" alt="Typing SVG"/>
-</div>
-
 
 <div style="display: inline_block"><br>
   
