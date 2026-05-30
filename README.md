@@ -11,47 +11,26 @@
 " ✨ Construindo meu futuro uma linha de código por vez."
 </h3>
 
-<h1 align="center"> Eliane Vitoriano </h1> 
-
+<div sty
 <div style="display: inline_block"><br>
-  
-  <img align="center" alt="JS" height="40" width="50"
+
+  <h1 align="center">
+ <img align="center" alt="JS" height="40" width="50"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-
-
-  <img align="center" alt="HTML" height="40" width="50"
+<img align="center" alt="HTML" height="40" width="50"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-  <img align="center" alt="CSS" height="40" width="50"
+ <img align="center" alt="CSS" height="40" width="50"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-  <img align="center" alt="React" height="40" width="50"
+ <img align="center" alt="React" height="40" width="50"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+     </h1> 
+
 </div>
 
 </div>
 <br>
 <p align="center">✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦</p>
 
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-<div align="center">
-  <a "www.linkedin.com/in/eliane-vitoriano-luiz-1152892b1">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
-  </a>
-  <a href="e.vitoriano@outlook.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
-  </a>
-</div>
-  
-</div>
 
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&hei
