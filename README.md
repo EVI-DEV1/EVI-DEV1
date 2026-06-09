@@ -11,6 +11,14 @@
 " ✨ Construindo meu futuro uma linha de código por vez."
 </h3>
 
+<h3 align="center">
+<a href="https://www.dio.me/users/SEU_USUARIO">
+    <img
+        alt="Meu Perfil DIO"
+         src="https://img.shields.io/badge/DIO-c084fc?style=for-the-badge&labelColor=3b0764"
+    />
+</a>
+</h3>
 <div sty
 <div style="display: inline_block"><br>
 
@@ -28,6 +36,46 @@
 </div>
 
 </div>
+
+
+
+
+
+
+
+
+
+<h1 align="center">
+
+<a href="https://github.com/EVI-DEV1?tab=repositories&sort=stargazers">
+    <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas GitHub" 
+        src="https://img.shields.io/github/stars/EVI-DEV1?style=for-the-badge&color=c084fc&labelColor=3b0764&logo=star"
+    />
+</a>
+
+<a href="https://github.com/EVI-DEV1?tab=followers">
+    <img 
+        alt="Seguidores"
+        title="Seguidores no GitHub"
+        src="https://img.shields.io/github/followers/EVI-DEV1?style=for-the-badge&color=c084fc&labelColor=3b0764&logo=github"
+    />
+</a>
+<a href="https://github.com/EVI-DEV1?tab=repositories">
+    <img
+        alt="Repositórios"
+        title="Meus Repositórios"
+        src="https://img.shields.io/badge/Repositórios-12-c084fc?style=for-the-badge&labelColor=3b0764&logo=github"
+    />
+</a>
+</h1>
+
+
+
+
+
+
 <br>
 <p align="center">✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦</p>
 
