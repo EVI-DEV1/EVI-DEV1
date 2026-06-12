@@ -37,45 +37,6 @@
 
 </div>
 
-
-
-
-
-
-
-
-
-<h1 align="center">
-
-<a href="https://github.com/EVI-DEV1?tab=repositories&sort=stargazers">
-    <img 
-        alt="Total de estrelas" 
-        title="Total de estrelas GitHub" 
-        src="https://img.shields.io/github/stars/EVI-DEV1?style=for-the-badge&color=c084fc&labelColor=3b0764&logo=star"
-    />
-</a>
-
-<a href="https://github.com/EVI-DEV1?tab=followers">
-    <img 
-        alt="Seguidores"
-        title="Seguidores no GitHub"
-        src="https://img.shields.io/github/followers/EVI-DEV1?style=for-the-badge&color=c084fc&labelColor=3b0764&logo=github"
-    />
-</a>
-<a href="https://github.com/EVI-DEV1?tab=repositories">
-    <img
-        alt="Repositórios"
-        title="Meus Repositórios"
-        src="https://img.shields.io/badge/Repositórios-12-c084fc?style=for-the-badge&labelColor=3b0764&logo=github"
-    />
-</a>
-</h1>
-
-
-
-
-
-
 <br>
 <p align="center">✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦</p>
 
