@@ -33,8 +33,9 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
      </h1> 
 
-</div>
-
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EVI-DEV1&show_icons=true&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVI-DEV1&layout=compact&theme=tokyonight"/>
 </div>
 
 <br>
