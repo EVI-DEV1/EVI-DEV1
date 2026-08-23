@@ -18,7 +18,7 @@
 
 
 
-## 💜 Sobre mim
+<h3>💜 Sobre mim</h3>
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💻 **Desenvolvedora Front-End** em formação
