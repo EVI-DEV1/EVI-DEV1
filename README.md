@@ -20,9 +20,8 @@
 
 <h3>💜 Sobre mim</h3>
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💻 **Desenvolvedora Front-End** em formação
-- ⚛️ Atualmente estudando **React, TypeScript e Python**
+- ⚛️ Atualmente estudando **React, TypeScript e SDD **
 - 🚀 Formação prática pela **DIO** (Bootcamp Santander)
 - 🤖 Curiosa sobre **IA Generativa** aplicada a produtos reais
 - 🌱 Objetivo: primeira oportunidade como **Dev Front-End Júnior**
