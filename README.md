@@ -25,7 +25,7 @@
 - 🚀 Formação prática pela **DIO** (Bootcamp Santander)
 - 🤖 Curiosa sobre **IA Generativa** aplicada a produtos reais
 - 🌱 Objetivo: primeira oportunidade como **Dev Front-End Júnior**
-- 📫 Contato: **eviofc4@gmail.com**
+- 📫 Contato: **e.vitoriano@outlook.com**
 
 
 <br clear="right"/>
