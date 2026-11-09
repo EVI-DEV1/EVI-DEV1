@@ -70,8 +70,8 @@
   <a href="https://github.com/EVI-DEV1/POUPE.AI">
     <img height="150" src="https://github-readme-stats.zohan.tech/api/pin/?username=EVI-DEV1&repo=POUPE.AI&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=c084fc&icon_color=c084fc" />
   </a>
-  <a href="https://github.com/EVI-DEV1/Tela-de-login-DIO">
-    <img height="150" src="https://github-readme-stats.zohan.tech/api/pin/?username=EVI-DEV1&repo=Tela-de-login-DIO&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=c084fc&icon_color=c084fc" />
+  <a href="https://github.com/EVI-DEV1/trilha-dev">
+    <img height="150" src="https://github-readme-stats.zohan.tech/api/pin/?username=EVI-DEV1&repo=trilha-dev&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=c084fc&icon_color=c084fc" />
   </a>
   <br>
   <a href="https://github.com/EVI-DEV1/CLASSIFICADOR.DE.HEROIS">
